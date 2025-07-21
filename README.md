@@ -1,9 +1,20 @@
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Vihanga+Theekshana" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B8860B&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Vihanga+Theekshana" 
     alt="Typing SVG" 
   />
 </p>
+
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=vihanga-theekshana&label=Profile+views&color=B8860B&style=flat" 
+    alt="Profile views" 
+  />
+</p>
+
+
 
 ---
 
