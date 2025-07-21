@@ -1,14 +1,7 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00008B&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Vihanga+Theekshana" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Vihanga+Theekshana" 
     alt="Typing SVG" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=vihanga-theekshana&label=Profile+views&color=0e75b6&style=flat" 
-    alt="profile views" 
   />
 </p>
 
