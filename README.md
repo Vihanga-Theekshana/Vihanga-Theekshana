@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently learning **Python OOP**
-- 🚀 Interested in **Full Stack Web Development**
+- 🚀 Interested in **Full Stack Web Development & DevOps**
 - 📫 Reach me at **theekshanavihanga2@gmail.com**
 
 ---
